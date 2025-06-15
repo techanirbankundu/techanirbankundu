@@ -54,17 +54,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-Here are some of my best works. Check them out 👇
-
-- [📱 FastStudy App](https://github.com/techanirbankundu/faststudy) — Educational mobile app built with Flutter & Firebase  
-- [🛒 Product Page with Cart](https://github.com/techanirbankundu/faststudy-cart) — Cart system using Flask and HTML/CSS  
-- [💬 AI Chatbot Integration](https://github.com/techanirbankundu/chatgpt) — AI-powered chatbot using OpenAI APIs  
-- [🏠 Room Booking System](https://github.com/techanirbankundu/room-booking) — Booking system with location-based search (Next.js + PSQL)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
